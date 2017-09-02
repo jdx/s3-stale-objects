@@ -1,0 +1,11 @@
+{
+  "name": "s3-stale-objects",
+  "version": "0.0.0",
+  "description": "fetch s3 objects older than a given date",
+  "bin": "bin/run",
+  "author": "Jeff Dickey",
+  "license": "MIT",
+  "dependencies": {
+    "cli-engine": "^4.1.2"
+  }
+}
